@@ -7,8 +7,8 @@ Olá, eu sou o Daniel!
 
 Contato:
 
-[![LinkedIn](https://www.linkedin.com/in/daniel-dias-359623371/)
-[![Gmail](daniel.dias.g08@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/daniel-dias-359623371/)]
+[![Gmail](daniel.dias.g08@gmail.com)]
 
 Linguagens de Programação:
 
