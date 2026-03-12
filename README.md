@@ -11,7 +11,7 @@ Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:daniel.dias.g08@gmail.com) 
 
 
-Linguagens de Programação:
+Interesse nas Linguagens de Programação:
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
